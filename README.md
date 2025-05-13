@@ -1,2 +1,2 @@
-# 2024_teenager_Math_AI_Acadmy
-colab notebook I used
+# 2024 청소년 수리 인공지능 아카데미 수업 자료
+
